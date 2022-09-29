@@ -1,4 +1,6 @@
-# Kintsugi Finance
+![Kintsugi](./public/Kint-long-gold.svg)
+
+## Kintsugi Finance
 
 ## Developments
 
