@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 
 import Split from "components/Split";
 import footers from "constants/Footers.json";
-import DarkModeSwitch from "../DarkModeSwitch";
+// import DarkModeSwitch from "../DarkModeSwitch";
 
 const StartFooter: React.FC = () => {
   const footerItems = footers.filter((footer) => footer.homeDisplay === true);
@@ -38,7 +38,7 @@ const StartFooter: React.FC = () => {
       <Spacer />
       <StyledFooterDarkModeSwitch>
         <br />
-        <DarkModeSwitch />
+        {/* <DarkModeSwitch /> */}
         <br />
       </StyledFooterDarkModeSwitch>
       <Spacer size="md" />

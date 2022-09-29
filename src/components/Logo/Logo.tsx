@@ -14,7 +14,7 @@ const Logo: React.FC = () => {
           
         /> */}
       </StyledEmoji>
-      <StyledText>Kintsugi</StyledText>
+      {/* <StyledText>Kintsugi</StyledText> */}
     </StyledLogo>
   );
 };
@@ -38,15 +38,15 @@ const StyledEmoji = styled.img.attrs({
   height: auto;
 `;
 
-const StyledText = styled.span`
-  color: ${(props) => props.theme.textColor};
-  font-size: 30px;
-  text-wrap: none;
-  font-weight: 700;
-  margin-left: ${(props) => props.theme.spacing[2]}px;
-  @media (max-width: 400px) {
-    display: none;
-  }
-`;
+// const StyledText = styled.span`
+//   color: ${(props) => props.theme.textColor};
+//   font-size: 30px;
+//   text-wrap: none;
+//   font-weight: 700;
+//   margin-left: ${(props) => props.theme.spacing[2]}px;
+//   @media (max-width: 400px) {
+//     display: none;
+//   }
+// `;
 
 export default Logo;
