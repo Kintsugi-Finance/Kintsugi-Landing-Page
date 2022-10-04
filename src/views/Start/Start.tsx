@@ -67,7 +67,7 @@ const Start: React.FC = () => {
           subtitle="Earn the highest APY's across multiple farms
           and protocol on Arbitrum with safety and
           efficiency in mind."
-          title="Multifarm Yield Aggregator on Autopilot"
+          title="Multifarm Yield Aggregator on Arbitrum"
         />
         <Container size="lg">
           <Box row justifyContent="center">
@@ -88,7 +88,7 @@ const Start: React.FC = () => {
         <StyledSectionIcon>⚖️</StyledSectionIcon>*/}
         <Spacer size="lg" />
         <StyledSectionTitle>
-          Multifarm Yield Aggregator on Autopilot
+          Multifarm Yield Aggregator on Arbitrum
         </StyledSectionTitle>
         <StyledSectionDescription>
           Earn the highest APY's across multiple farms and protocol on Arbitrum
@@ -128,7 +128,7 @@ const Start: React.FC = () => {
                 <Spacer size="sm" />
                 <StyledCardDescription>
                   Kintsugi Grants are here to support projects that will bring value
-                  back to yam.
+                  back to Kintsugi Finance.
                 </StyledCardDescription>
               </Box>
             </CardContent>
