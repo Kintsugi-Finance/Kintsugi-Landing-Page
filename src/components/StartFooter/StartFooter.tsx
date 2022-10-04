@@ -15,6 +15,7 @@ const StartFooter: React.FC = () => {
     <StyledFooter darkMode={darkMode}>
       <Spacer size="lg" />
       <Container>
+        {console.log("dark", darkMode)}
         <Split>
           {footerItems.map((footer: any, index: any) => (
             <div key={index}>

@@ -63,7 +63,7 @@ const App: React.FC = () => {
 };
 
 const Providers: React.FC = ({ children }) => {
-  const [darkModeSetting] = useLocalStorage("darkMode", false);
+  const [darkModeSetting] = useLocalStorage("darkMode", true);
   const { dark: darkTheme } = useMemo(() => {
     return createTheme({
       baseColor: { h: 0, s: 0, l: 20 },
