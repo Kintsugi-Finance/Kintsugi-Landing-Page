@@ -3,25 +3,25 @@
     "name": "GitHub",
     "url": "https://github.com/yam-finance/yam-www",
     "router": false,
-    "homeDisplay": true
+    "homeDisplay": false
   },
   {
     "name": "Snapshot",
     "url": "https://snapshot.page/#/yam",
     "router": false,
-    "homeDisplay": true
+    "homeDisplay": false
   },
   {
     "name": "Twitter",
     "url": "https://twitter.com/YamFinance",
     "router": false,
-    "homeDisplay": true
+    "homeDisplay": false
   },
   {
     "name": "Discord",
     "url": "https://discord.gg/nKKhBbk",
     "router": false,
-    "homeDisplay": true
+    "homeDisplay": false
   },
   {
     "name": "Medium",
@@ -33,7 +33,7 @@
     "name": "Forum",
     "url": "https://forum.yam.finance",
     "router": false,
-    "homeDisplay": true
+    "homeDisplay": false
   },
   {
     "name": "Docs",

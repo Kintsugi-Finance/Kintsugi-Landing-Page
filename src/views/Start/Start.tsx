@@ -104,7 +104,7 @@ const Start: React.FC = () => {
                 <StyledCardName>Single Asset</StyledCardName>
                 <Spacer size="sm" />
                 <StyledCardDescription>
-                  YAM holders decide YAM's future via on-chain voting.
+                  TSU holders decide Kintsugi's future via on-chain voting.
                 </StyledCardDescription>
               </Box>
             </CardContent>
@@ -127,7 +127,7 @@ const Start: React.FC = () => {
                 <StyledCardName>Liquidity Pools</StyledCardName>
                 <Spacer size="sm" />
                 <StyledCardDescription>
-                  Yam Grants are here to support projects that will bring value
+                  Kintsugi Grants are here to support projects that will bring value
                   back to yam.
                 </StyledCardDescription>
               </Box>
@@ -151,7 +151,7 @@ const Start: React.FC = () => {
                 <StyledCardName>Earning Pools</StyledCardName>
                 <Spacer size="sm" />
                 <StyledCardDescription>
-                  The YAM treasury is vibrant and growing.
+                  The Kintsugi Treasury is vibrant and growing.
                 </StyledCardDescription>
               </Box>
             </CardContent>
@@ -174,7 +174,7 @@ const Start: React.FC = () => {
                 <StyledCardName>Zapper</StyledCardName>
                 <Spacer size="sm" />
                 <StyledCardDescription>
-                  Earn YAMs while helping YAM grow too.
+                  Earn TSU's while helping Kintsugi Finance grow too.
                 </StyledCardDescription>
               </Box>
             </CardContent>
