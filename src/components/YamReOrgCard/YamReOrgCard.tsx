@@ -21,7 +21,7 @@ const YamReOrgCard: React.FC = () => {
           <Button
             full
             text="Info"
-            href="https://yam.super.site/"
+            href="https://app.kintsugi.finance"
             variant="secondary"
           />
         </CardActions>

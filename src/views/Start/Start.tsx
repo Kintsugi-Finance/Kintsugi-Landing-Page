@@ -71,11 +71,11 @@ const Start: React.FC = () => {
         />
         <Container size="lg">
           <Box row justifyContent="center">
-            <Button text="Launch App" to="/dashboard" />
+            <Button text="Launch App" to="https://app.kintsugi.finance" />
             <Spacer />
             <Button
               text="Documentation"
-              href="https://discord.com/invite/TgFpmDj"
+              href="https://docs.kintsugi.finance"
               variant="secondary"
             />
           </Box>
