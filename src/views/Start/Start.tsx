@@ -137,7 +137,7 @@ const Start: React.FC = () => {
               <Button
                 full
                 text="Learn more"
-                href="https://yam.super.site/"
+                href="https://docs.kintsugi.finance"
                 variant="secondary"
               />
             </Box>
