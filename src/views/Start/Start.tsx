@@ -71,7 +71,7 @@ const Start: React.FC = () => {
         />
         <Container size="lg">
           <Box row justifyContent="center">
-            <Button text="Launch App" to="https://app.kintsugi.finance" />
+            <Button text="Launch App" href="https://app.kintsugi.finance" />
             <Spacer />
             <Button
               text="Documentation"
@@ -114,7 +114,7 @@ const Start: React.FC = () => {
                 full
                 text="Learn more"
                 variant="secondary"
-                to="/governance"
+                href="https://app.kintsugi.finance"
               />
             </Box>
             {/* </CardActions> */}
@@ -137,7 +137,7 @@ const Start: React.FC = () => {
               <Button
                 full
                 text="Learn more"
-                href="https://docs.kintsugi.finance"
+                href="https://app.kintsugi.finance"
                 variant="secondary"
               />
             </Box>
@@ -161,7 +161,7 @@ const Start: React.FC = () => {
                 full
                 text="Learn more"
                 variant="secondary"
-                to="/dashboard"
+                href="https://app.kintsugi.finance"
               />
             </Box>
             {/* </CardActions> */}
@@ -180,7 +180,12 @@ const Start: React.FC = () => {
             </CardContent>
             {/* <CardActions> */}
             <Box row justifyContent="center">
-              <Button full text="Learn more" variant="secondary" to="/farm" />
+              <Button
+                full
+                text="Learn more"
+                variant="secondary"
+                href="https://app.kintsugi.finance"
+              />
             </Box>
             {/* </CardActions> */}
           </Surface>
