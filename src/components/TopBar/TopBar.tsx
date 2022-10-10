@@ -64,7 +64,11 @@ const TopBar: React.FC<TopBarProps> = () => {
               </StyledTopBarDarkModeSwitch> */}
               <Spacer />
 
-              <Button size="md" text="Launch App" to="https://app.kintsugi.finance" />
+              <Button
+                size="md"
+                text="Launch App"
+                href="https://app.kintsugi.finance"
+              />
             </StyledAccountButtonWrapper>
           </StyledLeftMenuBalancesWrapper>
         </StyledTopBarInner>
