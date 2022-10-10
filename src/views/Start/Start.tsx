@@ -127,8 +127,8 @@ const Start: React.FC = () => {
                 <StyledCardName>Liquidity Pools</StyledCardName>
                 <Spacer size="sm" />
                 <StyledCardDescription>
-                  Kintsugi Grants are here to support projects that will bring value
-                  back to Kintsugi Finance.
+                  Kintsugi Grants are here to support projects that will bring
+                  value back to Kintsugi Finance.
                 </StyledCardDescription>
               </Box>
             </CardContent>
@@ -228,6 +228,7 @@ const StyledSectionTitle = styled.div`
   color: ${(props) => props.theme.colors.primary.main};
   font-size: 36px;
   font-weight: 700;
+  line-height: normal;
   margin: 0;
   padding: 0;
   text-align: center;

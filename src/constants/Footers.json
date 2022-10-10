@@ -1,44 +1,20 @@
 [
   {
     "name": "GitHub",
-    "url": "https://github.com/yam-finance/yam-www",
+    "url": "http://github.com/Kintsugi-Finance",
     "router": false,
-    "homeDisplay": false
-  },
-  {
-    "name": "Snapshot",
-    "url": "https://snapshot.page/#/yam",
-    "router": false,
-    "homeDisplay": false
+    "homeDisplay": true
   },
   {
     "name": "Twitter",
-    "url": "https://twitter.com/YamFinance",
+    "url": "http://twitter.com/KintsugiFinance",
     "router": false,
-    "homeDisplay": false
+    "homeDisplay": true
   },
   {
-    "name": "Discord",
-    "url": "https://discord.gg/nKKhBbk",
+    "name": "Documentation",
+    "url": "http://docs.kintsugi.finance/",
     "router": false,
-    "homeDisplay": false
-  },
-  {
-    "name": "Medium",
-    "url": "https://medium.com/yam-finance",
-    "router": false,
-    "homeDisplay": false
-  },
-  {
-    "name": "Forum",
-    "url": "https://forum.yam.finance",
-    "router": false,
-    "homeDisplay": false
-  },
-  {
-    "name": "Docs",
-    "url": "https://docs.yam.finance/",
-    "router": false,
-    "homeDisplay": false
+    "homeDisplay": true
   }
 ]
